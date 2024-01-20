@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @legand
-- 👀 I’m interested in visual studio, odoo and php.
-- 🌱 I’m currently learning odoo and python
+- 👀 I’m a developer with visual studio, odoo and python.
 - 📫 Phone : +249995600690 - +249117793409
       Email : ahmedawad27@gmail.com
 
